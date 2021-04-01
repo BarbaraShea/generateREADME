@@ -11,3 +11,5 @@ Node.js
 Inquirer
 
 ## Preview:
+
+https://drive.google.com/file/d/1Mx9wxXLQWlzviODBQW0uDqkbCOeVNaXv/view
